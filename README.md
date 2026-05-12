@@ -1,2 +1,2 @@
-# Google advance DA Coursra Translating numbers into insights module
+# Google advanced DA Coursera Translating numbers into insights module labs:
 
